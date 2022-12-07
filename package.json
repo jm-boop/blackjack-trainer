@@ -1,0 +1,47 @@
+{
+  "name": "console-basic-strategy-trainer",
+  "description": "A node console app to practice basic strategy in blackjack",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=18.12.1"
+  },
+  "main": "src/app.js",
+  "scripts": {
+    "play": "node src/game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jm-boop/node-basic-strategy.git"
+  },
+  "keywords": [
+    "console",
+    "basic",
+    "perfect",
+    "strategy",
+    "21",
+    "black",
+    "jack",
+    "blackjack",
+    "counting",
+    "cards",
+    "card",
+    "count",
+    "apprenticeship",
+    "apprentice",
+    "blackjack",
+    "casino",
+    "game",
+    "games",
+    "trainer"
+  ],
+  "author": "John Bowen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jm-boop/node-basic-strategy/issues"
+  },
+  "homepage": "https://github.com/jm-boop/node-basic-strategy#readme",
+  "type": "module",
+  "dependencies": {
+    "rxjs": "^7.5.7"
+  }
+}
