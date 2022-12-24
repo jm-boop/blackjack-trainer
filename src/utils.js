@@ -41,7 +41,7 @@ export function renderInstructions() {
     console.log('\n');
     console.log('            BLACKJACK');
     console.log('            BASIC STRATEGY TRAINER');
-    console.log('                            v0.0.0');
+    console.log('                            v0.1.0');
     console.log('\n');
     console.log('    to:');
     console.log('        Stand......... [Enter] or type \'stand\'');

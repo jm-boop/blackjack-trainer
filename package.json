@@ -1,7 +1,7 @@
 {
   "name": "console-basic-strategy-trainer",
   "description": "A node console app to practice basic strategy in blackjack",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "engines": {
     "node": ">=18.12.1"
   },
