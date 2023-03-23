@@ -32,7 +32,17 @@
     "casino",
     "game",
     "games",
-    "trainer"
+    "trainer",
+    "money",
+    "dealer",
+    "practice",
+    "react",
+    "mobile",
+    "android",
+    "ios",
+    "web",
+    "webapp",
+    "app"
   ],
   "author": "John Bowen",
   "license": "GPL-3.0-or-later",
